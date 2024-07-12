@@ -67,7 +67,9 @@
     </ItemGroup>
 
     <ItemGroup>
-      <Folder Include="Platforms\iOS\Bluetooth\" />
+      <Compile Update="Bluetooth\Characteristic.cs">
+        <ExcludeFromCurrentConfiguration>false</ExcludeFromCurrentConfiguration>
+      </Compile>
     </ItemGroup>
 
 </Project>
