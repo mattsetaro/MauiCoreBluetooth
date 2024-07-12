@@ -66,4 +66,8 @@
       <MauiPlatformSpecificFolder Remove="Platforms\Windows\" />
     </ItemGroup>
 
+    <ItemGroup>
+      <Folder Include="Platforms\iOS\Bluetooth\" />
+    </ItemGroup>
+
 </Project>

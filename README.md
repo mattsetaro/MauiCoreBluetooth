@@ -1,2 +1,2 @@
 # Note
-All of the source code is in the 'MauiCoreBluetooth/Platforms/iOS' folder.
+All the source code is in the 'MauiCoreBluetooth/Platforms/iOS/Bluetooth' folder.
